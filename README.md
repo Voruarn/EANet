@@ -1,3 +1,3 @@
 # EANet
-This is the official repo for EANet2024.
-We provide the saliency maps of EANet on three ORSI-SOD datasets (ORSSD, EORSSD and ORSI-4199), link：https://pan.baidu.com/s/18Sh3ipqY1647LzgRzoKIxw  code：t92f
+This is the official repo for EANet2024, created by Yuxiang Fu, from School of Computer Science, NUIST, Nanjing, Jiangsu, China.
+2025/04/29, Update: News! This paper has been accepted by IEEE Transactions on Geoscience and Remote Sensing (TGRS).
